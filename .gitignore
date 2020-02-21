@@ -1,0 +1,9 @@
+env
+.vscode
+*.md
+!README.md
+*.zip
+*.gnmap
+*.nmap
+*.xml
+*.pdf
